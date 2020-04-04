@@ -8,17 +8,18 @@ Our goal is to launch the common-good stock market to crowdfund through a cooper
 There are 6 elements that conform the Liquid Fenix approach:
 
 1. Open collaboration platform and a single digital marketplace: Space to reach out mission-oriented projects and best practices around the world by open challenges as Horizon Europe is, in two ways:
-        I. Already backed-up projects by a budget which are looking for crowd intelligence and community engagement;
-        II. New projects that are being co-created by the community to apply for an available challenge, such as Horizon Europe and other SDG-oriented missions.
-       Both of these project types may participate as follows:
-       Projects vary in risk and time required both to research and to development, reason why they are presented in three modalities:
-            (1) Pathfinder: Projects ranging from early technology to pre-commercial that aim to RDI on disruptive technologies for achieving a specific mission-area.
-            (2) Accelerator: Innovative SMEs with pre-commercial to market & scale-up projects looking to develop new products, services and business models that could drive economic growth and shape new markets or disrupt existing ones in Europe and worldwide. 
-            (3) Non-commercial use: Best practices and basic research that do not seek or is not (yet) able to be commercialized. Funding this projects won’t return on investment by the project IP, but may provide by using other mechanisms as incentives like tradable crypto-collectibles.
-       Besides this, a future feature is adding an Online store where users and members can cash-out their earnings to buy products and services that are aligned to the Sustainable Development Goals (SDGs), Mission-areas or shared prosperity pursue such as Fair-trade, B Corps, Co-ops, and any other traditional firm complying with these. This will close the circle of prosperity economy.
+I. Already backed-up projects by a budget which are looking for crowd intelligence and community engagement;
+II. New projects that are being co-created by the community to apply for an available challenge, such as Horizon Europe and other SDG oriented missions.
+Both of these project types may participate as follows:
+Projects vary in risk and time required both to research and to development, reason why they are presented in three modalities:
+(1) Pathfinder: Projects ranging from early technology to pre-commercial that aim to RDI on disruptive technologies for achieving a specific mission-area.
+(2) Accelerator: Innovative SMEs with pre-commercial to market & scale-up projects looking to develop new products, services and business models that could drive economic growth and shape new markets or disrupt existing ones in Europe and worldwide. 
+(3) Non-commercial use: Best practices and basic research that do not seek or is not (yet) able to be commercialized. Funding this projects won’t return on investment by the project IP, but may provide by using other mechanisms as incentives like tradable crypto-collectibles.
+Besides this, a future feature is adding an Online store where users and members can cash-out their earnings to buy products and services that are aligned to the Sustainable Development Goals (SDGs), Mission-areas or shared prosperity pursue such as Fair-trade, B Corps, Co-ops, and any other traditional firm complying with these. This will close the circle of prosperity economy.
 
 2. Open, Permissionless and Contributive Accounting system: Any worldwide user is able to get Shares of any listed project through: directly buying them with capital, earning them by task fulfillment or trading them for owned assets.	
 The types of contributions are here detailed:
+
 Capital: This type of contribution is only available when Project tokens are on the sale phase, which is only when the project has received approval either by the challenge sponsor (like Horizon Europe) or by Liquid’s General Assembly.
 Assets:  Each project will specify if required any type of asset for its success. Either way if not requested any user can directly contact the team to offer and negotiate its token-related value. Some examples of asset sharing are patents, equipment and real estate.
 Tasks: This type of contribution is possible in each of the project’s life cycle and is presented in any of the following forms as bounties1:
