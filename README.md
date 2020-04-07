@@ -41,7 +41,7 @@ Capital: This type of contribution is only available when Project tokens are on 
 	
 Assets:  Each project will specify if required any type of asset for its success. Either way if not requested any user can directly contact the team to offer and negotiate its token-related value. Some examples of asset sharing are patents, equipment and real estate.
 	
-Tasks: This type of contribution is possible in each of the project’s life cycle and is presented in any of the following forms as bounties1:
+Tasks: This type of contribution is possible in each of the project’s life cycle and is presented in any of the following forms as bounties:
 
 Open to members:
 
@@ -49,7 +49,7 @@ Open to members:
 
 • Audit. The follow up and audit of financial states, operations and regulatory compliance will be asked to the team to present them as well to the community to review them. This will be required by the platform once the project has arrived to a commercial stage.
 	
-• Management. These tasks are only related to Liquid and require a specific level of reputation to apply.
+• Management and Mentorship. Tasks related to the operation and decision making of the LiquidFenix DAO, therefore require a specific level of reputation to apply.
 
 Open to any user:
 
